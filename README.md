@@ -14,7 +14,6 @@ Covers basic projects that were covered throughout Miami University course catal
 </details>
 <details>
   <summary>Custom Multithreaded Linux Shell</summary>
-  
   - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
   - Custom Linux shell with both serial and parallel execution capabilities.
   - Built using C++.
