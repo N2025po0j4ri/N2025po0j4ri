@@ -82,14 +82,13 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h4>Fall Semester 2019-2020</h4>
 <details>
   <summary>CEC 101: Computing, Engineering, and Society</summary>
-  
-  - Got introduced to the professional and societal context of engineering including contemporary issues and breakthrough technologies.
+  - Got introduced to the professional and societal context of the role of engineers and professions.
   - Explored issues related to professional ethics in engineering.
   - Practiced the essential skills necessary for success in teamwork and communication.
+  - Applied engineering skills in Solar Panel Group Design Presentation
 </details>
 <details>
   <summary>CSE 174: Fundamentals of Programming and Problem Solving</summary>
-  
   - <a href="https://github.com/karimsammouri/MU-CSE-174">View course projects</a>
   - Learned fundamental programming concepts such as language syntax and semantics, variable scope, data representation, formatting conventions, and Integrated Development Environments (IDEs).
   - Learned the fundamentals of Java and the process from source code to executable code, including the roles of the Java Compiler and the Java Virtual Machine (JVM).
