@@ -15,12 +15,13 @@ Covers basic projects that were covered throughout Miami University course catal
   - Personal project pursued on February 2022.
 </details>
 <details>
-  <summary>Custom Multithreaded Linux Shell</summary>
-  - <a href="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05">View project</a>
-  - Custom Linux shell with both serial and parallel execution capabilities.
-  - Built using C++.
-  - Makes use of <i>fork()</i> and <i>exec()</i> system calls, I/O streams, and string processing.
-  - Project submission for Miami University's CSE 381: Systems II during the Fall 2021 semester.
+  <summary>Pizza Menu </summary>
+  - <i>View project</i>
+  
+  - Project was created in CSE 174
+  - Built using Java
+  - Makes use of <i>data()</i> and <i>encapsulation()</i> methods while organizing toppings
+  - Project submission for Miami University's CSE 174 during the Fall 2021 semester.
 </details>
 <details>
   <summary>US Tax Return Analyzer Mobile App</summary>
