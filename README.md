@@ -3,12 +3,13 @@ Covers basic projects that were covered throughout Miami University course catal
 <h2>Featured Projects</h2>
 <details>
   <summary>Twitter Application </summary>
-  - Covers basic Buffered Reader
   
+  - Covers basic Buffered Reader
   - Implements Java utilized in CIS 2217
 </details>
 <details>
   <summary>Personal Website and Portfolio</summary>
+  
   - Details my resume that covers basic soft and hard skills.
   - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
   - Personal project pursued on February 2022.
