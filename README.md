@@ -4,6 +4,7 @@ Covers basic projects that were covered throughout Miami University course catal
 <details>
   <summary>Twitter Application </summary>
   - Covers basic Buffered Reader
+  
   - Implements Java utilized in CIS 2217
 </details>
 <details>
