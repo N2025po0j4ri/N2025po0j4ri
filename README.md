@@ -16,8 +16,8 @@ Covers basic projects that were covered throughout Miami University course catal
 </details>
 <details>
   <summary>Pizza Menu </summary>
-  - <i>View project</i>
   
+  - <a href="https://github.com/N2025po0j4ri/cse174/blob/main/PizzaShop.java">View project</a>
   - Project was created in CSE 174
   - Built using Java
   - Makes use of <i>data()</i> and <i>encapsulation()</i> methods while organizing toppings
