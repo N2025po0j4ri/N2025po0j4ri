@@ -85,6 +85,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h4>Fall Semester 2019-2020</h4>
 <details>
   <summary>CEC 101: Computing, Engineering, and Society</summary>
+  
   - Got introduced to the professional and societal context of the role of engineers and professions.
   - Explored issues related to professional ethics in engineering.
   - Practiced the essential skills necessary for success in teamwork and communication.
@@ -92,15 +93,12 @@ Further, Miami was ranked second nationally among public universities in "Underg
 </details>
 <details>
   <summary>CSE 174: Fundamentals of Programming and Problem Solving</summary>
-  - <a href="https://github.com/karimsammouri/MU-CSE-174">View course projects</a>
+  
+  - <a href="https://github.com/N2025po0j4ri/cse174">View course projects</a>
   - Learned fundamental programming concepts such as language syntax and semantics, variable scope, data representation, formatting conventions, and Integrated Development Environments (IDEs).
   - Learned the fundamentals of Java and the process from source code to executable code, including the roles of the Java Compiler and the Java Virtual Machine (JVM).
   - Learned to implement clean and robust programs that solve a stated problem, including using appropriate Java primitive data types, operators, methods, conditionals, loops, input, output, collections, and third-party classes.
-  - Learned to identify and eliminate errors in programs, including the ability to analyze source code, differentiate between compiler and runtime errors, interpret complier errors, use a debugger, and write test code.
-  - Learned to solve programming problems using a procedural approach through functional decomposition.
-  - Learned to describe, trace, and implement basic algorithms such as linear search, non-recursive binary search, non-recursive sorting algorithms such as bubble sort, selection sort, and insertion sort, and common array algorithms such as counting, adding, and computing the min/max.
-  - Learned to compare algorithms with respect to their efficiency and readability.
-  - Learned to use Java’s API documentation.
+  - Learned basic encapsulation through applying functions, using Hash maps, and unordered maps
 </details>
 <h4>Spring Semester 2019-2020</h4>
 <details>
