@@ -1,5 +1,5 @@
 # CSEPortfolio
-Covers basic projects that were covered throughout Miami University course catalogue. Inspired by other students.  
+Covers basic projects that were covered throughout Miami University course catalogue. Inspired by @karimsammouri's introduction.
 <h2>Featured Projects</h2>
 <details>
   <summary>Twitter Application </summary>
