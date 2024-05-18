@@ -9,7 +9,8 @@ Covers basic projects that were covered throughout Miami University course catal
 </details>
 <details>
   <summary>Personal Website and Portfolio</summary>
-  
+
+   - <a href="https://ceclnx01.cec.miamioh.edu/~poojarn/poojarn-resume/">View project</a>
   - Details my resume that covers basic soft and hard skills.
   - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
   - Personal project pursued on February 2022.
@@ -17,20 +18,18 @@ Covers basic projects that were covered throughout Miami University course catal
 <details>
   <summary>Pizza Menu </summary>
   
-  - <a href="https://github.com/N2025po0j4ri/cse174/blob/main/PizzaShop.java">View project</a>
+  - <a href="https://github.com/N2025po0j4ri/cse174/blob/main/PizzaShop.jav">View project</a>
   - Project was created in CSE 174
   - Built using Java
   - Makes use of <i>data()</i> and <i>encapsulation()</i> methods while organizing toppings
   - Project submission for Miami University's CSE 174 during the Fall 2021 semester.
 </details>
 <details>
-  <summary>US Tax Return Analyzer Mobile App</summary>
+  <summary>US Tax Calculator</summary>
   
-  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project02%20-%20US%20Tax%20Information">View project</a>
-  - Analyzes a TSV file containing tax return records for all zip codes in the US and allows the user to either query zip codes with an average tax return equivalent to a given amount or zip codes in a given city-state.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of embedded resources, asynchronous processing, file IO, data binding, and <i>ListViews</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
+  - <a href="https://github.com/N2025po0j4ri/IT161/blob/main/Midterm1_code.txt">View project</a>
+  - Analyzes a tax inputs from a company
+  - Built using Java
 </details>
 <details>
   <summary>MapQuest Navigation Web App</summary>
