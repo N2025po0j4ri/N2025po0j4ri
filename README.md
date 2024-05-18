@@ -82,7 +82,7 @@ Miami is a large, primarily residential teaching university with a focus on unde
 
 Further, Miami was ranked second nationally among public universities in "Undergraduate Engineering Program - No Doctorate," excluding military institutions.
 </p>
-<h4>Fall Semester 2019-2020</h4>
+<h4>Fall Semester 2021-2022</h4>
 <details>
   <summary>CEC 101: Computing, Engineering, and Society</summary>
   
