@@ -29,6 +29,7 @@ Covers basic projects that were covered throughout Miami University course catal
   
   - <a href="https://github.com/N2025po0j4ri/IT161/blob/main/Midterm1_code.txt">View project</a>
   - Analyzes a tax inputs from a company
+  - Makes use of functions, encapsulation, and other advanced concepts
   - Built using Java
 </details>
 <details>
