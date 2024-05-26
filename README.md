@@ -100,7 +100,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to implement clean and robust programs that solve a stated problem, including using appropriate Java primitive data types, operators, methods, conditionals, loops, input, output, collections, and third-party classes.
   - Learned basic encapsulation through applying functions, using Hash maps, and unordered maps
 </details>
-<h4>Spring Semester 2019-2020</h4>
+<h4>Spring Semester 2022-2023</h4>
 <details>
   <summary>CSE 102: Intro to Computer Science and Software Engineering</summary>
   
@@ -125,7 +125,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to describe, implement, and compare non-recursive and recursive sorting algorithms such as bubble sort, insertion sort, selection sort, merge sort, and quick sort.
   - Learned to design and develop event-driven applications with a graphical user interface using Java Swing
 </details>
-<h4>Fall Semester 2020-2021</h4>
+<h4>Fall Semester 2023-2024</h4>
 <details>
   <summary>CSE 262: Technology, Ethics, and Global Society</summary>
   
