@@ -112,18 +112,17 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to communicate through the use of web sites and oral presentations.
 </details>
 <details>
-  <summary>CSE 271: Object-Oriented Programming</summary>
+  <summary>CIS2217: Object-Oriented Programming</summary>
   
-  - <a href="https://github.com/karimsammouri/MU-CSE-271">View course projects</a>
+  - <a href="https://github.com/N2025po0j4ri/cis2217">View course projects</a>
   - Learned to design and implement computer programs using Java and object-oriented programming techniques such as objects, classes, methods, abstraction, encapsulation, inheritance, and polymorphism.
-  - Learned to write UML class diagrams and break a programming problem down into an appropriate set of classes and methods based on a problem statement.
   - Learned to write robust programs with input validation and an emphasis on exhaustive testing through concepts learned in CSE 174.
   - Learned to write code that throws and catches appropriate exception classes, including both checked and unchecked exceptions.
   - Learned to use JUnit and write class tests.
   - Learned to use Javadoc to document a class.
-  - Learned to use recursion as a problem-solving technique and implement classical recursive algorithms such as calculating a factorial.
   - Learned to describe, implement, and compare non-recursive and recursive sorting algorithms such as bubble sort, insertion sort, selection sort, merge sort, and quick sort.
   - Learned to design and develop event-driven applications with a graphical user interface using Java Swing
+  - Created applications using  Eclipse IDE which I've latered used for the Robotics Build in ACM compeition
 </details>
 <h4>Fall Semester 2023-2024</h4>
 <details>
