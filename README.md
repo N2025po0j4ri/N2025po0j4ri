@@ -85,7 +85,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h4>Fall Semester 2021-2022</h4>
 <details>
   <summary>CEC 101: Computing, Engineering, and Society</summary>
-  
   - Got introduced to the professional and societal context of the role of engineers and professions.
   - Explored issues related to professional ethics in engineering.
   - Practiced the essential skills necessary for success in teamwork and communication.
@@ -93,17 +92,15 @@ Further, Miami was ranked second nationally among public universities in "Underg
 </details>
 <details>
   <summary>CSE 174: Fundamentals of Programming and Problem Solving</summary>
-  
   - <a href="https://github.com/N2025po0j4ri/cse174">View course projects</a>
   - Learned fundamental programming concepts such as language syntax and semantics, variable scope, data representation, formatting conventions, and Integrated Development Environments (IDEs).
   - Learned the fundamentals of Java and the process from source code to executable code, including the roles of the Java Compiler and the Java Virtual Machine (JVM).
   - Learned to implement clean and robust programs that solve a stated problem, including using appropriate Java primitive data types, operators, methods, conditionals, loops, input, output, collections, and third-party classes.
   - Learned basic encapsulation through applying functions, using Hash maps, and unordered maps
 </details>
-<h4>Spring Semester 2022-2023</h4>
+<h4>Spring Semester 2021-2022</h4>
 <details>
   <summary>CSE 102: Intro to Computer Science and Software Engineering</summary>
-  
   - Learned to use computer science and software engineering tools such as Git, Secure Socket Shell (SSH), and the command-line interface (CLI).
   - Learned fundamental computer science concepts such as binary, hexadecimal, logic gates, computer architecture, networks, operating systems, programming, and algorithms.
   - Learned web-programming technologies and fundamentals such as HTML, CSS, JavaScript, DOM, and jQuery.
@@ -127,7 +124,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h4>Fall Semester 2023-2024</h4>
 <details>
   <summary>CSE 262: Technology, Ethics, and Global Society</summary>
-  
   - Learned to formulate and defend a position on an ethical question related to technology, including applying ethical theories such as Kantianism, Utilitarianism, and Social Contract Theory.
   - Explored the ethical challenges currently posed  by technology, including digital rights management, community standards, databases of personal data, fair use, freedom of expression, monitoring, technological determinism, unsafe software, and globalization.
   - Learned to engage with peers and come to a consensus on ethical issues.
