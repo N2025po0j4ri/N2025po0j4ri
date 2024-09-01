@@ -32,46 +32,9 @@ Covers basic projects that were covered throughout Miami University course catal
   - Makes use of functions, encapsulation, and other advanced concepts
   - Built using Java
 </details>
-<details>
-  <summary>MapQuest Navigation Web App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-383/tree/main/Final">View project</a>
-  - Displays navigation directions given two locations from the user. Navigation history is saved and can be retrieved by date.
-  - Built using HTML, Javascript, PHP, CSS, the MapQuest API for navigation data, and AWS EC2 for temporary hosting and storage.
-  - Makes use of phpLiteAdmin (web-based SQLite), JQuery, AJAX, JSON, and Bootstrap.
-  - Final project submission for Miami University's CSE 383: Web Application Programming during the Fall 2021 semester.
-  - Project requirements emphasize a multi-page/multi-tab web client with a focus on responsive design.
-</details>
-<details>
-  <summary>MySQL RDBMS Interface Console App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-278/tree/main/Project04">View project</a>
-  - Interactive console app to interface with a MySQL RDBMS.
-  - Built using C++ and SQL.
-  - Makes use of I/O streams and string processing.
-  - Project submission for Miami University's CSE 278: Systems I during the Fall 2020 semester.
-</details>
-<details>
-  <summary>Checkers Game Desktop App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-271/tree/main/Project04">View project</a>
-  - Functional desktop checkers game.
-  - Built using Java and the Swing GUI library.
-  - Makes use of <i>JComponents</i>, <i>JPanels</i>, <i>JFrames</i>, <i>ActionListeners</i>, and <i>MouseListeners</i>.
-  - Final project submission for Miami University's CSE 271: Object-Oriented Programming during the Spring 2020 semester.
-  - Implemented a functioning GUI despite it being optional. Assigned requirements document is provided.
-</details>
-<details>
-  <summary>Investment Calculator Mobile App</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-382/tree/main/Project03%20-%20Financial%20Calculator">View project</a>
-  - Performs arithmetic and computes the final investment balance given a starting balance, number of years, rate of return, recurring investment, and the frequency of recurring investment.
-  - Built using C#, XAML, Microsoft's Xamarin.Forms cross-platform UI framework, and Visual Studio.
-  - Makes use of event handlers, grid layout, <i>ResourceDictionary</i>, and <i>Pickers</i>.
-  - Project submission for Miami University's CSE 382: Mobile Application Development during the Fall 2022 semester.
-</details>
 
 <h2>Education</h2>
+<!-- I will figure this out -->
 <img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
 <h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
@@ -121,14 +84,7 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to design and develop event-driven applications with a graphical user interface using Java Swing
   - Created applications using  Eclipse IDE which I've latered used for the Robotics Build in ACM compeition
 </details>
-<h4>Fall Semester 2023-2024</h4>
-<details>
-  <summary>CSE 262: Technology, Ethics, and Global Society</summary>
-  - Learned to formulate and defend a position on an ethical question related to technology, including applying ethical theories such as Kantianism, Utilitarianism, and Social Contract Theory.
-  - Explored the ethical challenges currently posed  by technology, including digital rights management, community standards, databases of personal data, fair use, freedom of expression, monitoring, technological determinism, unsafe software, and globalization.
-  - Learned to engage with peers and come to a consensus on ethical issues.
-  - Took positions on the social responsibilities of software developers and used oral and written methods to communicate my position.
-</details>
+<h4> Summer Semester 2022-2023 </h4>
 <details>
   <summary>CSE 274: Data Abstractions and Structures</summary>
   
@@ -141,6 +97,14 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to build classes that are compatible with library collection classes such as a class that can be used as a key in a hash table.
   - Learned to implement abstract data types using object-oriented programming principles such as polymorphism, inheritance, and generics.
   - Learned to determine time and space requirements of data structure implementations and algorithms as well as asymptotic notations used in algorithm analysis.
+</details>
+<h4>Fall Semester 2023-2024</h4>
+<details>
+  <summary>CSE 262: Technology, Ethics, and Global Society</summary>
+  - Learned to formulate and defend a position on an ethical question related to technology, including applying ethical theories such as Kantianism, Utilitarianism, and Social Contract Theory.
+  - Explored the ethical challenges currently posed  by technology, including digital rights management, community standards, databases of personal data, fair use, freedom of expression, monitoring, technological determinism, unsafe software, and globalization.
+  - Learned to engage with peers and come to a consensus on ethical issues.
+  - Took positions on the social responsibilities of software developers and used oral and written methods to communicate my position.
 </details>
 <details>
   <summary>CSE 278: Systems I</summary>
@@ -303,28 +267,9 @@ Further, Miami was ranked second nationally among public universities in "Underg
 
 <h2>Certifications</h2>
 <details>
-  <summary>Harvard’s CS50: Introduction to Computer Science</summary>
-  
-  - <a href="https://certificates.cs50.io/57c45c7d-ba2a-4dd3-bbc8-5196be365638.pdf?size=letter">View certificate</a>
-  - Due to the course's quality and reviews, multiple programmers recommended I enroll in this online introductory computer science course before coming to college. I started the course but didn't have enough time to finish before coming to Miami. For completion's sake, I finished the course during the winter break of January 2022. The course did a fantastic job explaining the fundamentals of problem solving, programming, and computing in general. The course touched on eleven topics that were covered a week each: problem solving, C, arrays, algorithms, memory, data structures, Python, SQL, web application programming, Flask, and ethics. Every week's lecture, except the last, had a corresponding problem set, and the course culminated with a final project.
-</details>
-<details>
-  <summary>AT&T's Business Summer Learning Academy</summary>
-  
-  - <a href="https://www.credly.com/badges/b8baa00f-5a6e-466d-8c2c-3e9abc9967d9?source=linked_in_profile">View certificate</a>
-  - I had the opportunity to participate in AT&T's 2021 Summer Learning Academy, where I experienced eighty total hours of intensive online programming around personal and career development, business, and technology topics. Established personalities such as Troy Aikman, Kelly Decker, and Matt Luhn were present. I received my certification on August 2021.
-</details>
-<details>
-  <summary>Miami University’s Farmer School of Business miniMBA</summary>
-  
+  <summary> ICAgile Certification</summary>
   - <a href="https://certs.professionaled.miamioh.edu/06c4e2c9-233c-4e33-97b2-68b902b53b25#gs.jmsajt">View certificate</a>
-  - I had the opportunity to enroll in Miami's Farmer School of Business miniMBA program when it first launched in 2021. As a computer science major, I gained insight on a wide range of business topics from supply chain and business strategy to entrepreneurship and creative thinking. I recieved my miniMBA on January 2021.
-</details>
-<details>
-  <summary>LinkedIn Learning Java 11+ Essential Training </summary>
-  
-  - <a href="https://www.linkedin.com/learning/certificates/1f8eebe96b3e0686f92730367a13d07b74c9d64478ac57852cc5fd3d3a7be513">View certificate</a>
-  - After receiving a free one-month trial on LinkedIn Learning my freshman year at Miami, I tried to maximize the opportunity. This course caught my eye as I had just finished CSE 271: Object-Oriented Programming and thought it would be a good Java refresher. I received my certification on June 2020.
+  - I had the opportunity to enroll in ICAgile Discord Workshop in November 2023 for 2 days dedicated to applying AGILE principles, team-work, and learned how to work with others in a team project. 
 </details>
 
 <h2>Let's connect</h2>
