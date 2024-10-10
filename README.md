@@ -139,8 +139,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
 </details>
 <details>
   <summary>CSE 374: Algorithms I</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-374">View course projects</a>
   - Learned to characterize the runtime and storage requirements of a proposed algorithm or data structure.
   - Learned to determine the time and space complexity of algorithms.
   - Learned the formal definitions of Ο, Θ, and Ω and how they describe the amount of work done by an algorithm.
@@ -150,8 +148,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
 <h4>Fall Semester 2021-2022</h4>
 <details>
   <summary>CSE 381: Systems II</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-381">View course projects</a>
   - Learned to carry out the key steps in loading and starting an operating system.
   - Learned to critique the design and tradeoffs in file systems and computer memory hierarchy levels.
   - Learned to use multiprocessing and inter-process communication (IPC) concepts and tools such as pipes to monitor and control processes.
@@ -161,8 +157,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
 </details>
 <details>
   <summary>CSE 383: Web Application Programming</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-383">View course projects</a>
   - Learned technologies needed to implement web applications such as HTML, CSS, JavaScript, and AJAX.
   - Learned the nature of web applications, frameworks, and various architectures, including the role of the client and backend servers, and how they interrelate.
   - Learned to create interactive web applications using forms and other user input methods to gather and present data.
@@ -198,72 +192,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Learned to specify selected features of programming language syntax using standard grammatical notations.
   - Learned to specify selected features of programming language semantics using operational semantics, denotational semantics, and axiomatic semantics.
 </details>
-<h4>Fall Semester 2022-2023</h4>
-<details>
-  <summary>CSE 167: Intro to Cybersecurity</summary>
-  
-  - Learned the definition, scope, and objective of cybersecurity.
-  - Explored current cybersecurity trends, including data breaches, targeted ransomware, and insider threats.
-  - Learned fundamental cybersecurity concepts such as the CIA triad (confidentiality, integrity, and availability), attack vectors, defense points, and controls.
-  - Learned fundamental cryptography concepts and tools such as the caesar and vignette ciphers, symmetric and asymmetric encryption, hashing, OpenSSL, and GPG.
-</details>
-<details>
-  <summary>CSE 382: Mobile Application Development</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-382">View course projects</a>
-  - Learned to use Xamarin to build cross-platform mobile applications.
-  - Learned to use Visual Studio to develop, debug, and test cross-platform mobile applications.
-  - Learned the tradeoffs of cross-platform development and native development.
-  - Learned to use graphical elements to acquire user input and display data.
-  - Learned to develop mobile applications that support different form factors such as phone or tablet and orientations such as landscape or portrait.
-  - Learned to use common navigation patterns such as tabbed, carousel, and stack navigation.
-  - Learned to use asynchronous processing to provide a responsive interface.
-  - Learned the basic security aspects of mobile applications.
-  - Learned to implement mobile applications that permanently store data, including through a local database, the app’s file system, and the app’s preferences.
-  - Learned to implement mobile applications that use internet resources, including using web services to retrieve information from an internet resource through a standard data interchange format (JSON).
-  - Learned to implement mobile applications that access the device’s hardware such as the GPS, accelerometer, and camera.
-</details>
-<!--
-<details>
-  <summary>CSE 448: Senior Design Project</summary>
-  
-  - Learned to solve an open-ended problem as part of a team utilizing software engineering tools and methods.
-  - Practiced the necessary written and oral communication skills needed to communicate effectively with both technical and non-technical audiences.
-  - Learned to perform various roles as part of a team.
-  - Learned to apply engineering ethics and professionalism in project management.
-</details>
--->
-<details>
-  <summary>CSE 470G: Cloud Computing and DevOps</summary>
-  
-  - Learned the definition, scope, and objective of DevOps.
-  - Learned fundamental DevOps concepts such as virtualization, containerization, and continuous integration (CI).
-  - Learned to use DevOps automation tools such as Bash scripts, Docker, GitLab CI/CD, Ansible, Nagios, Puppet, and Terraform.
-  - Learned to use cloud computing platforms such as AWS and OpenStack.
-</details>
-<!-- 
-<h4>Spring Semester 2022-2023</h4>
-<details>
-  <summary>CSE 321: Software Quality Assurance</summary>
-  
-  <p><i>[In progress]</i></p>
-</details>
-<details>
-  <summary>CSE 386: Foundations of Graphics</summary>
-  
-  <p><i>[In progress]</i></p>
-</details>
-<details>
-  <summary>CSE 449: Senior Design Project</summary>
-  
-  <p><i>[In progress]</i></p>
-</details>
-<details>
-  <summary>CSE 470N: Quantum Computing</summary>
-  
-  <p><i>[In progress]</i></p>
-</details>
--->
 
 <h2>Certifications</h2>
 <details>
