@@ -35,8 +35,6 @@ Covers basic projects that were covered throughout Miami University course catal
 
 <h2>Education</h2>
 <!-- I will figure this out -->
-<img src="https://github.com/karimsammouri/karimsammouri/blob/main/MiamiLogo.png" alt="Miami University">
-<h3>Bachelor of Science (B.S.) in Computer Science</h3>
 <p>
 Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the 
 United States. 
@@ -85,19 +83,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
   - Created applications using  Eclipse IDE which I've latered used for the Robotics Build in ACM compeition
 </details>
 <h4> Summer Semester 2022-2023 </h4>
-<details>
-  <summary>CSE 274: Data Abstractions and Structures</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-274">View course projects</a>
-  - Learned to use the appropriate data structures, abstract data types, and algorithmic methods to solve a given problem.
-  - Learned the features and semantics of abstract data types such as matrices, lists, stacks, queues, sets, maps, trees, graphs, and priority queues.
-  - Learned the features and semantics of major data structures such as array-based lists, linked lists, hash tables, binary search trees, heaps, and graphs.
-  - Learned to implement common tree and graph algorithms such as tree traversals, depth-first search, breadth-first search, Dijkstra’s algorithms, and topological sort.
-  - Learned to combine multiple data structures to create efficient solutions to problems.
-  - Learned to build classes that are compatible with library collection classes such as a class that can be used as a key in a hash table.
-  - Learned to implement abstract data types using object-oriented programming principles such as polymorphism, inheritance, and generics.
-  - Learned to determine time and space requirements of data structure implementations and algorithms as well as asymptotic notations used in algorithm analysis.
-</details>
 <h4>Fall Semester 2023-2024</h4>
 <details>
   <summary>CSE 262: Technology, Ethics, and Global Society</summary>
@@ -108,8 +93,6 @@ Further, Miami was ranked second nationally among public universities in "Underg
 </details>
 <details>
   <summary>CSE 278: Systems I</summary>
-  
-  - <a href="https://github.com/karimsammouri/MU-CSE-278">View course projects</a>
   - Learned to develop programs using a high level, systems programming language (C++) in a Linux environment.
   - Learned about the properties of various computer architectures including their components and functions.
   - Learned to analyze the salient aspects of machine instructions and memory addressing modes.
