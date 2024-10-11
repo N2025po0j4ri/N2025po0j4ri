@@ -1,5 +1,6 @@
 # CSEPortfolio
 Covers basic projects that were covered throughout Miami University course catalogue. Inspired by @karimsammouri's introduction. (This profile is undergoing development).
+Disclaimer - there are ongoing adult learners that should not plagirize off others work.
 <h2>Featured Projects</h2>
 <details>
   <summary>Twitter Application </summary>
@@ -35,13 +36,6 @@ Covers basic projects that were covered throughout Miami University course catal
 
 <h2>Education</h2>
 <!-- I will figure this out -->
-<p>
-Miami University is a public research university in Oxford, Ohio. The university was founded in 1809, making it the second-oldest university in Ohio and the 10th oldest public university in the 
-United States. 
-
-Miami is a large, primarily residential teaching university with a focus on undergraduate studies. In its 2022 national rankings, U.S. News & World Report ranked Miami University fifth among public schools for “Best Undergraduate Teaching.”
-
-Further, Miami was ranked second nationally among public universities in "Undergraduate Engineering Program - No Doctorate," excluding military institutions.
 </p>
 <h4>Fall Semester 2021-2022</h4>
 <details>
