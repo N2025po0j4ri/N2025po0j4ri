@@ -114,14 +114,6 @@ Disclaimer - there are ongoing adult learners that should not plagirize off othe
   - Learned to effectively present design artifacts.
   - Learned various testing and quality assurance strategies, including validation and verification, and different levels of testing such as unit, integration, systems, acceptance, regression, black box, and white box testing.
 </details>
-<details>
-  <summary>CSE 374: Algorithms I</summary>
-  - Learned to characterize the runtime and storage requirements of a proposed algorithm or data structure.
-  - Learned to determine the time and space complexity of algorithms.
-  - Learned the formal definitions of Ο, Θ, and Ω and how they describe the amount of work done by an algorithm.
-  - Learned to use big O notation to define asymptotic upper bounds on time and space complexity of algorithms.
-  - Learned to describe and implement advanced algorithms such as dynamic-programming, greedy, and divide-and-conquer algorithms.
-</details>
 <h4>Fall Semester 2021-2022</h4>
 <details>
   <summary>CSE 381: Systems II</summary>
