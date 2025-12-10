@@ -105,7 +105,7 @@ Covers basic projects that were covered through basic practice.
   - Learned to effectively present design artifacts.
   - Learned various testing and quality assurance strategies, including validation and verification, and different levels of testing such as unit, integration, systems, acceptance, regression, black box, and white box testing.
 </details>
-<h4>Fall Semester 2021-2022</h4>
+<h4>Fall Semester 2022-2023</h4>
 <details>
   <summary>CSE 381: Systems II</summary>
   - Learned to carry out the key steps in loading and starting an operating system.
@@ -125,7 +125,7 @@ Covers basic projects that were covered through basic practice.
   - Learned concepts of MVC and templating in the creation of web applications.
   - Learned to implement error handling conditions in relation to network programming.
 </details>
-<h4>Spring Semester 2021-2022</h4>
+<h4>Fall Semester 2023-2025</h4>
 <details>
   <summary>CSE 385: Database Systems</summary>
   
@@ -138,6 +138,7 @@ Covers basic projects that were covered through basic practice.
   - Learned to design a relational database using entity-relationship modeling and diagrams.
   - Learned the concept of normalization in database design.
 </details>
+<h4>Fall Semester 2024-2025</h4>
 <details>
   <summary>CSE 465: Comparative Programming Languages</summary>
   
