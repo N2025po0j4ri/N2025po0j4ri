@@ -125,7 +125,7 @@ Covers basic projects that were covered through basic practice.
   - Learned concepts of MVC and templating in the creation of web applications.
   - Learned to implement error handling conditions in relation to network programming.
 </details>
-<h4>Fall Semester 2023-2025</h4>
+<h4>Fall Semester 2023-2024</h4>
 <details>
   <summary>CSE 385: Database Systems</summary>
   
