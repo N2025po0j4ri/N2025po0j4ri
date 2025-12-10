@@ -3,22 +3,14 @@ Covers basic projects that were covered through basic practice.
 <h2>Featured Projects</h2>
 <details>
   <summary>Twitter Application </summary>
-  
   - Covers basic Buffered Reader
   - Implements Java utilized in CIS 2217
 </details>
-<details>
-  <summary>Personal Website and Portfolio</summary>
 
-   - <a href="https://ceclnx01.cec.miamioh.edu/~poojarn/poojarn-resume/">View project</a>
-  - Details my resume that covers basic soft and hard skills.
-  - Makes use of CSS <i>Media Queries</i> for page responsiveness and dynamic adaptation to varying window sizes.
-  - Personal project pursued on February 2022.
-</details>
 <details>
   <summary>Pizza Menu </summary>
   
-  - <a href="https://github.com/N2025po0j4ri/cse174/blob/main/PizzaShop.jav">View project</a>
+  - <a href="https://github.com/N2025po0j4ri/cse174/blob/main/PizzaShop.java">View project</a>
   - Project was created in CSE 174
   - Built using Java
   - Makes use of <i>data()</i> and <i>encapsulation()</i> methods while organizing toppings
