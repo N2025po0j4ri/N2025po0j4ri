@@ -3,7 +3,7 @@ Covers basic projects that were covered through basic practice.
 <h2>Featured Projects</h2>
 <details>
   <summary>Next Rent Home Application (for college students) </summary>
-  - <a href="- <a href="https://github.com/N2025po0j4ri/cse174/blob/main/PizzaShop.java">View project</a>">View project</a>
+  - <a href="https://github.com/N2025po0j4ri/Team3NextRentFinal"> View project</a>
   - A scaffold for the me and my team's project code 
   - This application is dedicated to displaying various residential options for students
   - Users can navigate through the website and submit their own application to store it for later
