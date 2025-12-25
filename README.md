@@ -166,9 +166,6 @@ Covers basic projects that were covered through basic practice.
 
 <h2>Let's connect</h2>
 <p>
-Personal website: <a href="">poojarna.com</a>
-
 LinkedIn: <a href="https://www.linkedin.com/in/nirupamapoojari/">linkedin.com/in/nirupamapoojari</a>
-
 Email: <a href="poojari.niru@gmail.com">poojari.niru@gmail.com</a>
 </p>
